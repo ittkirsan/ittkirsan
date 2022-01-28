@@ -2,7 +2,7 @@
 
 Junior python developer. I studied the Python language on my own.I do not have work experience, but I want to further develop and study this area.
 <p align='center'>
-   <a href="www.linkedin.com/in/DmitrievichVyacheslav/">
+   <a href="https://www.linkedin.com/in/dmitrievichvyacheslav/">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p align='center'>
